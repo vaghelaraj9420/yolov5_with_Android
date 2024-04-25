@@ -1,6 +1,9 @@
 YOLOv5 Nutrient Deficiency Detection
 
-Welcome to the YOLOv5 Nutrient Deficiency Detection repository! This repository contains resources related to training the YOLOv5 model on a custom dataset of banana leaf nutrient deficiencies, developing an Android Studio application for real-time detection and classification of nutrient deficiencies, and performing post-training quantization for model optimization. Additionally, you will find a research paper explaining the research behind this project.
+Welcome to the YOLOv5 Nutrient Deficiency Detection repository! This repository contains resources related to training the YOLOv5 model on a custom dataset of banana leaf nutrient deficiencies, developing an Android Studio application for real-time detection and classification of nutrient deficiencies, and performing post-training quantization for model optimization. Additionally, you will find a research paper explaining the research behind this project. Also, you can access the full folder in this drive url: https://drive.google.com/drive/folders/1UYuYdfeg0-FLxwoa-Aynpz3eGSG1xE31?usp=sharing
+
+The dataset used in this project can be taken from this url: https://data.mendeley.com/datasets/7vpdrbdkd4/1
+
 
 Contents
 
