@@ -34,7 +34,7 @@ To utilize the resources in this repository, follow these steps:
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/vaghelaraj9420/yolov5_with_Android.git
    ```
 
 2. Refer to the notebook for training the YOLOv5 model and performing post-training quantization.
